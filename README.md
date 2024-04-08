@@ -31,7 +31,6 @@ MongoCollection=your_collection_name
 
 Replace your_mongodb_password, your_mongodb_username, your_database_name, and your_collection_name with your MongoDB database credentials and collection name.
 
-Modify the script to use the environment variables for MongoDB username and collection name.
 
 Run the script using the following command:
 
