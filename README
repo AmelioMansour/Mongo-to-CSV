@@ -1,3 +1,4 @@
+
 # MongoDB to CSV Exporter
 
 This script connects to a MongoDB database, fetches data from a specified collection, and exports it to a CSV file. The CSV file is named with today's date in the Eastern Time Zone and stored in an 'output' folder within the same directory as the script.
@@ -49,4 +50,3 @@ node index.js
 
 ## License
 This project is licensed under the MIT License - see the LICENSE file for details.
-
