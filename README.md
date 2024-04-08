@@ -35,9 +35,10 @@ Modify the script to use the environment variables for MongoDB username and coll
 
 Run the script using the following command:
 
-bash
-Copy code
-node index.js
+
+   ```bash
+   node index.js
+   ```
 ## Features
 - Fetches data from a MongoDB collection.
 - Exports data to a CSV file with today's date in the Eastern Time Zone.
@@ -48,5 +49,4 @@ node index.js
 - mongodb - MongoDB driver for Node.js.
 - json2csv - Converts JSON data to CSV format.
 
-## License
-This project is licensed under the MIT License - see the LICENSE file for details.
+
